@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Espacio de Industrias</title>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="UTF-8" />
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/echarts-gl@2.0.9/dist/echarts-gl.min.js"></script>
+<link rel="preload" as="script" href="/espacio_industrias/assets/product_space_mexico-305cf986049a1555.js" crossorigin><link rel="preload" as="fetch" type="application/wasm" href="/espacio_industrias/assets/product_space_mexico_bg-1444078c5ecc5518.wasm" crossorigin></head>
+  <body>
+    <div id="main"></div>
+  <script>
+            // We can't use a module script here because we need to start the script immediately when streaming
+            import("/espacio_industrias/assets/product_space_mexico-305cf986049a1555.js").then(
+                ({ default: init }) => {
+                init("/espacio_industrias/assets/product_space_mexico_bg-1444078c5ecc5518.wasm").then((wasm) => {
+                    if (wasm.__wbindgen_start == undefined) {
+                    wasm.main();
+                    }
+                });
+                }
+            );
+            </script>
+            
+            </body>
+</html>

@@ -1,0 +1,32 @@
+[package]
+name = "product_space_mexico"
+version = "0.1.0"
+authors = ["Hermilo Cortes <hermilocg@hotmail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+charming = { version = "0.6.0", features = ["wasm"] }
+console_error_panic_hook = "0.1.7"
+dioxus = { version = "0.6.0", features = [] }
+dioxus-logger = "0.6.2"
+serde_json = "1.0.145"
+
+[features]
+default = ["web"]
+web = ["dioxus/web"]
+desktop = ["dioxus/desktop"]
+mobile = ["dioxus/mobile"]
+
+[profile]
+
+[profile.wasm-dev]
+inherits = "dev"
+opt-level = 1
+
+[profile.server-dev]
+inherits = "dev"
+
+[profile.android-dev]
+inherits = "dev"

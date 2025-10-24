@@ -19,7 +19,7 @@ fn main() {
 
 #[component]
 fn App() -> Element {
-    let renderer = use_signal(|| WasmRenderer::new(2000, 800));
+    let renderer = use_signal(|| WasmRenderer::new(1500, 700));
 
     use_effect(move || {
         let data: GraphData = serde_json::from_str(include_str!("espacio_producto_format.json")).unwrap();

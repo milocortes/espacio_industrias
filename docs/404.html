@@ -7,14 +7,14 @@
     <meta charset="UTF-8" />
   <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/echarts-gl@2.0.9/dist/echarts-gl.min.js"></script>
-<link rel="preload" as="script" href="/espacio_industrias/assets/product_space_mexico-a9a116fd941f3f02.js" crossorigin><link rel="preload" as="fetch" type="application/wasm" href="/espacio_industrias/assets/product_space_mexico_bg-4142b7947650fde2.wasm" crossorigin></head>
+<link rel="preload" as="script" href="/espacio_industrias/assets/product_space_mexico-9a473db910adc1f2.js" crossorigin><link rel="preload" as="fetch" type="application/wasm" href="/espacio_industrias/assets/product_space_mexico_bg-3e8ca79cd863c1f6.wasm" crossorigin></head>
   <body>
     <div id="main"></div>
   <script>
             // We can't use a module script here because we need to start the script immediately when streaming
-            import("/espacio_industrias/assets/product_space_mexico-a9a116fd941f3f02.js").then(
+            import("/espacio_industrias/assets/product_space_mexico-9a473db910adc1f2.js").then(
                 ({ default: init }) => {
-                init("/espacio_industrias/assets/product_space_mexico_bg-4142b7947650fde2.wasm").then((wasm) => {
+                init("/espacio_industrias/assets/product_space_mexico_bg-3e8ca79cd863c1f6.wasm").then((wasm) => {
                     if (wasm.__wbindgen_start == undefined) {
                     wasm.main();
                     }

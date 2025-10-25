@@ -1,0 +1,262 @@
+id,name,symbolSize,x,y,category,value
+1141,Pesca,20,-68.893394,22.720085,0,20
+1125,Acuicultura,20,-26.825102,47.03442,0,20
+1151,Servicios relacionados con la agricultura,20,-7.045218,83.15026,0,20
+2123,Minería de minerales no metálicos,20,39.852356,73.38537,1,20
+2361,Edificación residencial,20,-75.89443,2.2136896,2,20
+2362,Edificación no residencial,20,-86.71423,-5.2074046,2,20
+2371,"Construcción de obras para el suministro de agua, petróleo, gas, energía eléctrica y telecomunicaciones",20,0.81934416,27.563288,2,20
+2372,División de terrenos y construcción de obras de urbanización,20,-75.86546,-12.29958,2,20
+2381,"Cimentaciones, montaje de estructuras prefabricadas y trabajos en exteriores",20,-45.854073,8.280145,2,20
+2382,Instalaciones y equipamiento en construcciones,20,-29.838978,-6.950837,2,20
+2383,Trabajos de acabados en edificaciones,20,-35.50863,15.496416,2,20
+2389,Otros trabajos especializados para la construcción,20,35.22381,0.54274213,2,20
+3111,Elaboración de alimentos balanceados para animales,20,-26.02541,23.756767,3,20
+3112,Molienda de granos y de semillas y obtención de aceites y grasas,20,-27.565077,6.305694,3,20
+3114,"Conservación de frutas, verduras, guisos y otros alimentos preparados",20,1.4866698,-8.905305,3,20
+3115,Elaboración de productos lácteos,20,-96.957596,2.6738822,3,20
+3116,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",20,-37.716442,28.800995,3,20
+3117,Preparación y envasado de pescados y mariscos,20,-15.003278,73.872406,3,20
+3118,Elaboración de productos de panadería y tortillas,20,-126.25431,7.743267,3,20
+3119,Otras industrias alimentarias,20,-63.444637,5.8264704,3,20
+3121,Industria de las bebidas,20,-118.26656,-2.034516,3,20
+3141,"Confección de alfombras, blancos y similares",20,78.15506,-13.032735,3,20
+3219,Fabricación de otros productos de madera,20,-131.46077,-3.3769722,3,20
+3231,Impresión e industrias conexas,20,24.717466,-5.4267893,3,20
+3253,"Fabricación de fertilizantes, plaguicidas y otros agroquímicos",20,71.07119,5.9406304,3,20
+3256,"Fabricación de jabones, limpiadores y preparaciones de tocador",20,67.349,-6.5057445,3,20
+3271,Fabricación de productos a base de arcillas y minerales refractarios,20,-64.33737,-6.6678658,3,20
+3273,"Fabricación de cemento, concreto y sus productos",20,-113.666824,-13.820174,3,20
+3274,"Fabricación de cal, yeso y productos de yeso",20,5.1711326,10.277301,3,20
+3279,Fabricación de otros productos a base de minerales no metálicos,20,-51.500885,-2.3150947,3,20
+3323,Fabricación de estructuras metálicas y productos de herrería,20,-129.05872,-16.23934,3,20
+3324,"Fabricación de calderas, tanques y envases metálicos",20,94.04377,3.8407037,3,20
+3327,Maquinado de piezas y fabricación de tornillos,20,-52.423298,-14.814315,3,20
+3331,"Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva",20,53.785797,9.220806,3,20
+3333,Fabricación de maquinaria y equipo para el comercio y los servicios,20,47.757404,-1.8170846,3,20
+3339,Fabricación de otra maquinaria y equipo para la industria en general,20,-11.186243,-0.88183063,3,20
+3363,Fabricación de partes para vehículos automotores,20,-17.71314,-11.406391,3,20
+3364,Fabricación de equipo aeroespacial,20,17.19454,-15.312251,3,20
+3366,Fabricación de embarcaciones,20,99.95084,15.230888,3,20
+3371,"Fabricación de muebles, excepto de oficina y estantería",20,-7.434551,11.058025,3,20
+3391,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",20,13.057215,-2.5269234,3,20
+3399,Otras industrias manufactureras,20,0.968289,2.1755548,3,20
+4311,Comercio al por mayor de abarrotes y alimentos,20,-102.43331,-8.172138,4,20
+4312,"Comercio al por mayor de bebidas, hielo y tabaco",20,-120.97527,-25.141207,4,20
+4321,Comercio al por mayor de productos textiles y calzado,20,83.89969,50.394135,4,20
+4331,Comercio al por mayor de productos farmacéuticos,20,44.42062,-13.591866,4,20
+4332,"Comercio al por mayor de artículos de perfumería, cosméticos y joyería",20,83.99429,10.45573,4,20
+4334,"Comercio al por mayor de artículos de papelería, libros, revistas y periódicos",20,-18.357624,14.118914,4,20
+4335,Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca,20,65.6677,17.263592,4,20
+4341,Comercio al por mayor de materias primas agropecuarias y forestales,20,-121.2018,-8.448127,4,20
+4342,Comercio al por mayor de materias primas para la industria,20,-109.28147,6.8208795,4,20
+4351,"Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca",20,-117.4059,16.169975,4,20
+4352,Comercio al por mayor de maquinaria y equipo para la industria,20,-46.299084,-25.931402,4,20
+4354,"Comercio al por mayor de mobiliario y equipo de cómputo y de oficina, y de otra maquinaria y equipo de uso general",20,17.179182,9.248541,4,20
+4361,"Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones",20,-64.691574,-19.236433,4,20
+4611,Comercio al por menor de abarrotes y alimentos,20,-138.4792,8.7238455,4,20
+4612,"Comercio al por menor de bebidas, hielo y tabaco",20,-106.94826,-24.909384,4,20
+4621,Comercio al por menor en tiendas de autoservicio,20,-125.626884,26.249994,4,20
+4622,Comercio al por menor en tiendas departamentales,20,-99.975136,15.779094,4,20
+4631,"Comercio al por menor de productos textiles, excepto ropa",20,-115.389336,-36.90108,4,20
+4632,"Comercio al por menor de ropa, bisutería y accesorios de vestir",20,-137.25775,21.907377,4,20
+4633,Comercio al por menor de calzado,20,-142.1006,-9.599677,4,20
+4641,Comercio al por menor de artículos para el cuidado de la salud,20,-118.79006,36.680977,4,20
+4651,Comercio al por menor de artículos de perfumería y joyería,20,-148.34752,1.5559502,4,20
+4652,Comercio al por menor de artículos para el esparcimiento,20,-106.058975,-3.6003976,4,20
+4653,"Comercio al por menor de artículos de papelería, libros, revistas y periódicos",20,-95.57952,-18.526497,4,20
+4659,"Comercio al por menor de mascotas y sus accesorios, regalos, artículos religiosos, desechables, artesanías y otros artículos de uso personal",20,-83.082245,-22.956001,4,20
+4661,Comercio al por menor de muebles para el hogar y otros enseres domésticos,20,-92.79647,-31.539618,4,20
+4662,"Comercio al por menor de mobiliario, equipo y accesorios de cómputo, teléfonos y otros aparatos de comunicación",20,-73.05005,-30.75688,4,20
+4663,Comercio al por menor de artículos para la decoración de interiores,20,-139.89946,-22.757504,4,20
+4664,Comercio al por menor de artículos usados,20,-136.97021,-0.606672,4,20
+4671,"Comercio al por menor de artículos de ferretería, tlapalería y vidrios",20,-108.46985,24.692472,4,20
+4681,Comercio al por menor de automóviles y camionetas,20,-106.18784,37.44063,4,20
+4682,"Comercio al por menor de partes y refacciones para automóviles, camionetas y camiones",20,-113.79087,26.205963,4,20
+4683,Comercio al por menor de motocicletas y otros vehículos de motor,20,-154.06932,12.352618,4,20
+4684,"Comercio al por menor de combustibles, aceites y grasas lubricantes",20,-87.79227,12.498638,4,20
+4841,Autotransporte de carga general,20,-40.645313,-2.0455391,5,20
+4842,Autotransporte de carga especializado,20,-37.24377,-16.62933,5,20
+4851,Transporte colectivo urbano y suburbano de pasajeros de ruta fija,20,50.40643,67.57927,5,20
+4852,Transporte colectivo foráneo de pasajeros de ruta fija,20,36.60788,61.32751,5,20
+4854,Transporte escolar y de personal,20,-7.237451,-17.747627,5,20
+4855,Alquiler de autobuses con chofer,20,13.377495,21.336773,5,20
+4883,Servicios relacionados con el transporte por agua,20,-3.034067,95.2624,5,20
+4884,Servicios relacionados con el transporte por carretera,20,-76.57643,14.260307,5,20
+4885,Servicios de intermediación para el transporte de carga,20,-8.09314,-29.75711,5,20
+4921,Servicios de mensajería y paquetería foránea,20,135.83095,-8.93288,5,20
+4922,Servicios de mensajería y paquetería local,20,78.48171,36.966244,5,20
+4931,Servicios de almacenamiento,20,29.988377,12.067962,5,20
+5121,Industria fílmica y del video,20,-22.302053,-47.403057,5,20
+5122,Industria del sonido,20,125.3792,-16.546041,5,20
+5161,Estaciones de transmisión de programas de radio y televisión,20,-88.5662,-11.304744,5,20
+5162,"Servicios de distribución de audio y video en tiempo real (streaming), redes sociales, cadenas de radio y televisión y otros proveedores de contenido",20,146.78972,-14.558357,5,20
+5223,Uniones de crédito e instituciones de ahorro,20,-148.3999,-32.06739,6,20
+5224,Otras instituciones de intermediación crediticia y financiera no bursátil,20,-101.55731,49.535885,6,20
+5231,"Casas de bolsa, casas de cambio y centros cambiarios",20,11.719744,-26.786299,6,20
+5242,"Servicios relacionados con los seguros y las fianzas, y administración de fondos para el retiro",20,30.493155,25.317253,6,20
+5311,Alquiler sin intermediación de bienes raíces,20,-92.470276,-44.22049,6,20
+5312,Inmobiliarias y corredores de bienes raíces,20,-57.537605,17.099028,6,20
+5313,Servicios relacionados con los servicios inmobiliarios,20,-33.305935,-30.87425,6,20
+5321,"Alquiler de automóviles, camiones y otros transportes terrestres",20,-25.289175,-20.94615,6,20
+5322,Alquiler de artículos para el hogar y personales,20,-133.79942,-35.246418,6,20
+5323,Centros generales de alquiler,20,-19.880234,0.25542524,6,20
+5324,"Alquiler de maquinaria y equipo agropecuario, pesquero, industrial, comercial y de servicios",20,-85.84206,7.500921,6,20
+5411,Servicios legales,20,-152.11238,-18.194149,7,20
+5412,"Servicios de contabilidad, auditoría y servicios relacionados",20,-103.442505,-38.541256,7,20
+5413,"Servicios de arquitectura, ingeniería y actividades relacionadas",20,-35.64001,5.1181817,7,20
+5414,Diseño especializado,20,-61.68379,-36.12442,7,20
+5415,Servicios de diseño de sistemas de cómputo y servicios relacionados,20,60.465694,-0.93904495,7,20
+5416,"Servicios de consultoría administrativa, científica y técnica",20,41.958214,14.2471485,7,20
+5418,Servicios de publicidad y actividades relacionadas,20,19.816938,32.09216,7,20
+5419,"Otros servicios profesionales, científicos y técnicos",20,-109.610405,-50.476776,7,20
+5611,Servicios de administración de negocios,20,20.668808,20.230156,7,20
+5613,Servicios de empleo,20,59.696926,11.115289,7,20
+5614,"Servicios de apoyo secretarial, fotocopiado, cobranza, investigación crediticia y similares",20,42.39732,30.734125,7,20
+5615,Agencias de viajes y servicios de reservaciones,20,-44.606373,-38.11313,7,20
+5616,"Servicios de investigación, protección y seguridad",20,-95.2605,-29.125715,7,20
+5617,Servicios de limpieza,20,-15.133979,10.951056,7,20
+5619,Otros servicios de apoyo a los negocios,20,52.19604,23.20003,7,20
+5621,Recolección de residuos,20,24.486225,2.6415703,7,20
+5629,"Servicios de remediación, recuperación, y otros servicios de manejo de residuos",20,61.234325,-17.150618,7,20
+6111,"Escuelas de educación básica, media y para necesidades especiales",20,-97.87241,-55.75999,8,20
+6113,Escuelas de educación superior,20,-91.45933,26.104864,8,20
+6115,Escuelas de oficios,20,-91.77295,38.70811,8,20
+6116,Otros servicios educativos,20,-97.7643,28.049152,8,20
+6211,Consultorios médicos,20,-89.55627,52.200436,8,20
+6212,Consultorios dentales,20,-83.92535,-54.49886,8,20
+6213,Otros consultorios para el cuidado de la salud,20,-98.38839,3.2844293,8,20
+6214,Centros para la atención de pacientes que no requieren hospitalización,20,-46.398006,21.086626,8,20
+6215,Laboratorios médicos y de diagnóstico,20,-74.22713,-0.85956496,8,20
+6219,"Servicios de ambulancias, de bancos de órganos y otros servicios auxiliares al tratamiento médico",20,-11.277323,26.432148,8,20
+6221,Hospitales generales,20,-31.323673,18.611174,8,20
+6223,Hospitales de otras especialidades médicas,20,-49.98251,35.45462,8,20
+6231,"Residencias con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales",20,51.643078,-24.674349,8,20
+6232,"Residencias para el cuidado de personas con problemas de retardo mental, trastorno mental y adicciones",20,-61.81828,-7.4148264,8,20
+6233,Asilos y otras residencias para el cuidado de ancianos,20,-62.455017,33.20892,8,20
+6239,Orfanatos y otras residencias de asistencia social,20,-28.453033,-8.231892,8,20
+6241,Servicios de orientación y trabajo social,20,-105.088135,-66.19973,8,20
+6242,"Servicios comunitarios de alimentación, refugio y emergencia",20,2.3177512,-36.105415,8,20
+6243,"Servicios de capacitación para el trabajo para personas desempleadas, subempleadas o con discapacidad",20,7.058021,86.875435,8,20
+6244,Guarderías,20,-79.940216,29.508173,8,20
+7111,Compañías y grupos de espectáculos artísticos y culturales,20,-79.56396,41.91683,9,20
+7113,"Promotores de espectáculos artísticos, culturales, deportivos y similares",20,0.47682166,19.83012,9,20
+7115,"Artistas, escritores y técnicos independientes",20,8.468547,36.84361,9,20
+7131,Parques con instalaciones recreativas y casas de juegos electrónicos,20,-158.64107,-6.730781,9,20
+7132,"Casinos, loterías y otros juegos de azar",20,-80.335625,-66.657555,9,20
+7139,Otros servicios recreativos,20,-125.804115,-44.469402,9,20
+7211,"Hoteles, moteles y similares",20,-92.98502,-70.22462,9,20
+7213,"Pensiones y casas de huéspedes, y departamentos y casas amueblados con servicios de hotelería",20,-127.98783,15.474309,9,20
+7224,"Centros nocturnos, bares, cantinas y similares",20,-103.90662,62.55976,9,20
+7225,Servicios de preparación de alimentos y bebidas alcohólicas y no alcohólicas,20,-92.115074,-63.54838,9,20
+8111,Reparación y mantenimiento de automóviles y camiones,20,-115.02903,48.699505,10,20
+8112,Reparación y mantenimiento de equipo electrónico y de equipo de precisión,20,-147.7729,-9.543293,10,20
+8113,"Reparación y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de servicios",20,-104.654175,16.051153,10,20
+8114,Reparación y mantenimiento de artículos para el hogar y personales,20,-81.19289,61.874165,10,20
+8121,"Salones y clínicas de belleza, baños públicos y bolerías",20,-149.3372,23.486479,10,20
+8122,Lavanderías y tintorerías ,20,-165.81314,-17.156527,10,20
+8123,Servicios funerarios y administración de cementerios ,20,-133.71777,36.20345,10,20
+8124,Estacionamientos y pensiones para vehículos automotores ,20,-72.01336,-18.961092,10,20
+8129,Servicios de revelado e impresión de fotografías y otros servicios personales ,20,-121.81216,4.33471,10,20
+8131,"Asociaciones y organizaciones comerciales, laborales, profesionales y recreativas ",20,-127.41996,-31.678864,10,20
+8132,"Asociaciones y organizaciones religiosas, políticas y civiles ",20,-146.06534,40.036846,10,20
+2131,Servicios relacionados con la minería,20,70.76891,47.015743,1,20
+2373,Construcción de vías de comunicación,20,29.349226,42.046017,2,20
+3113,"Elaboración de azúcares, chocolates, dulces y similares",20,-5.078235,38.546394,3,20
+3131,"Preparación e hilado de fibras textiles, y fabricación de hilos",20,46.054333,-38.468502,3,20
+3133,Acabado de productos textiles y fabricación de telas recubiertas,20,89.753716,-7.9772162,3,20
+3149,"Fabricación de otros productos textiles, excepto prendas de vestir",20,-56.33273,-26.689472,3,20
+3151,Fabricación de prendas de vestir de tejido de punto,20,0.8314749,-48.049812,3,20
+3152,Confección de prendas de vestir,20,-60.95875,-24.099556,3,20
+3159,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte,20,8.980023,-61.69513,3,20
+3211,Aserrado y conservación de la madera,20,47.954994,-51.02198,3,20
+3212,Fabricación de laminados y aglutinados de madera,20,123.07007,34.82021,3,20
+3222,Fabricación de productos de cartón y papel,20,4.0168104,-20.295528,3,20
+4832,Transporte por aguas interiores,20,41.724274,43.945675,5,20
+4853,Servicio de taxis y limusinas,20,79.244385,-25.641937,5,20
+4859,Otro transporte terrestre de pasajeros,20,126.89119,-45.460735,5,20
+4881,Servicios relacionados con el transporte aéreo,20,54.023212,35.249126,5,20
+5131,"Edición de periódicos, revistas, libros, directorios y otros materiales",20,15.970932,47.85688,5,20
+5179,Otros servicios de telecomunicaciones,20,-17.94896,37.08498,5,20
+5417,Servicios de investigación científica y desarrollo,20,107.562904,5.1365047,7,20
+5622,Tratamiento y disposición final de residuos,20,124.48058,-28.992476,7,20
+6114,"Escuelas comerciales, de computación y de capacitación para ejecutivos",20,3.147206,47.832123,8,20
+7121,"Museos, sitios históricos, zoológicos y similares",20,-34.238323,-45.969685,9,20
+7212,Campamentos y albergues recreativos,20,47.862705,54.55839,9,20
+3132,Fabricación de telas,20,89.870026,-20.033552,3,20
+4889,Otros servicios relacionados con el transporte,20,86.96976,25.767866,5,20
+5192,"Bibliotecas, archivos, portales de búsqueda en la red y otros servicios de suministro de información",20,102.81725,-21.34709,5,20
+1152,Servicios relacionados con la cría y explotación de animales,20,92.43708,37.383526,0,20
+3259,Fabricación de otros productos químicos,20,55.989838,-11.176459,3,20
+3262,Fabricación de productos de hule,20,32.342606,-18.721052,3,20
+3315,Moldeo por fundición de piezas metálicas,20,41.649876,8.890362,3,20
+3362,Fabricación de carrocerías y remolques,20,61.467632,-33.49405,3,20
+3372,Fabricación de muebles de oficina y estantería,20,73.84902,-37.488472,3,20
+4343,Comercio al por mayor de materiales de desecho,20,-52.42748,8.643536,4,20
+5239,Asesoría en inversiones y otros servicios relacionados con la intermediación bursátil,20,76.33609,20.068779,6,20
+6112,Escuelas de educación técnica superior,20,35.400517,-7.881977,8,20
+2121,Minería de carbón mineral,20,15.764173,-72.723595,1,20
+2122,Minería de minerales metálicos,20,44.833866,86.210495,1,20
+2213,"Captación, tratamiento y suministro de agua",20,102.894264,-6.8782053,1,20
+3162,Fabricación de calzado,20,122.97134,4.143377,3,20
+3169,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",20,85.78382,62.502216,3,20
+3251,Fabricación de productos químicos básicos,20,68.02833,30.424824,3,20
+3252,"Fabricación de resinas y hules sintéticos, y fibras químicas",20,80.64027,-0.6289254,3,20
+3254,Fabricación de productos farmacéuticos,20,115.02578,-5.645393,3,20
+3255,"Fabricación de pinturas, recubrimientos y adhesivos",20,74.26858,9.630939,3,20
+3261,Fabricación de productos de plástico,20,23.935446,-28.850386,3,20
+3272,Fabricación de vidrio y productos de vidrio,20,83.59883,-1.0914253,3,20
+3321,Fabricación de productos metálicos forjados y troquelados,20,86.004395,-40.82419,3,20
+3322,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos,20,63.46774,29.120844,3,20
+3326,"Fabricación de alambre, productos de alambre y resortes",20,63.893566,18.947783,3,20
+3328,Recubrimientos y terminados metálicos,20,10.731019,-1.2683662,3,20
+3329,Fabricación de otros productos metálicos,20,36.345142,-30.16368,3,20
+3332,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",20,69.7904,-24.702303,3,20
+3334,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",20,62.588093,-28.897736,3,20
+3335,Fabricación de maquinaria y equipo para la industria metalmecánica,20,59.544403,-46.446503,3,20
+3336,"Fabricación de motores de combustión interna, turbinas y transmisiones",20,94.68471,-32.280293,3,20
+3344,Fabricación de componentes electrónicos,20,50.77822,-37.13913,3,20
+3351,Fabricación de accesorios de iluminación,20,97.857796,-17.09891,3,20
+3359,Fabricación de otros equipos y accesorios eléctricos,20,71.55743,-49.847504,3,20
+3361,Fabricación de automóviles y camiones,20,63.953743,-60.39027,3,20
+3365,Fabricación de equipo ferroviario,20,73.05273,60.036762,3,20
+3379,"Fabricación de colchones, persianas y cortineros",20,96.16857,3.3418388,3,20
+4353,Comercio al por mayor de maquinaria y equipo para los servicios y para actividades comerciales,20,58.38209,46.877216,4,20
+4882,Servicios relacionados con el transporte por ferrocarril,20,60.51768,60.49716,5,20
+5612,Servicios integrales de apoyo a los negocios en instalaciones,20,114.22338,-18.033175,7,20
+6222,Hospitales psiquiátricos y para el tratamiento por adicción,20,107.009705,-9.3976145,8,20
+7223,Servicios de preparación de alimentos por encargo,20,22.067081,-41.153168,9,20
+3312,Fabricación de productos de hierro y acero,20,103.71582,-41.452145,3,20
+2379,Otras construcciones de ingeniería civil,20,140.54198,-24.948019,2,20
+3221,"Fabricación de pulpa, papel y cartón",20,112.09881,-31.384638,3,20
+3241,Fabricación de productos derivados del petróleo y del carbón,20,127.328735,-4.3475533,3,20
+3325,Fabricación de herrajes y cerraduras,20,99.58685,27.5909,3,20
+3369,Fabricación de otro equipo de transporte,20,115.71814,-21.50809,3,20
+4333,"Comercio al por mayor de grabaciones de audio y video en medios físicos, juguetes y artículos deportivos",20,92.72517,-7.834614,4,20
+4373,Intermediación de comercio al por mayor,20,100.1545,-30.060577,4,20
+5132,Edición de software,20,137.43459,3.9748101,5,20
+5173,Operadores de servicios de telecomunicaciones alámbricas e inalámbricas,20,140.5714,16.418669,5,20
+5182,"Provisión de infraestructura de servicios de cómputo, procesamiento de datos, hospedaje de páginas de internet y otros servicios relacionados",20,156.3857,-5.527082,5,20
+5211,Banca central,20,149.74011,5.8934503,6,20
+5221,Banca múltiple,20,142.27983,29.299177,6,20
+5222,Instituciones financieras de fomento económico,20,128.58633,15.800371,6,20
+5225,Servicios relacionados con la intermediación crediticia no bursátil,20,136.29015,-21.766731,6,20
+5241,Compañías de seguros y fianzas,20,131.49634,27.617193,6,20
+5331,"Servicios de alquiler de marcas registradas, patentes y franquicias",20,153.06079,18.000103,6,20
+5511,Dirección y administración de grupos empresariales o corporativos,20,124.9952,-13.861702,7,20
+6117,Servicios de apoyo a la educación,20,114.89416,15.208025,8,20
+3161,Curtido y acabado de cuero y piel,20,112.93131,27.265203,3,20
+3313,Industria básica del aluminio,20,114.334305,-47.294918,3,20
+3314,"Industrias de metales no ferrosos, excepto aluminio",20,104.5356,-54.616436,3,20
+3342,Fabricación de equipo de comunicación,20,89.00573,-53.024227,3,20
+3345,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",20,107.35966,39.186687,3,20
+3352,Fabricación de aparatos eléctricos de uso doméstico,20,78.20789,-59.87754,3,20
+3353,Fabricación de equipo de generación y distribución de energía eléctrica,20,91.28021,-65.44535,3,20
+4691,"Intermediación de comercio al por menor, y comercio al por menor a través de catálogos impresos, televisión y similares",20,135.41832,40.539276,4,20
+4871,Transporte turístico por tierra,20,77.81193,-72.95196,5,20
+6216,Servicios de enfermería a domicilio,20,137.99657,-39.112057,8,20
+7112,Deportistas y equipos deportivos profesionales,20,42.30663,-26.472723,9,20
+4872,Transporte turístico por agua,20,89.51263,-78.94542,5,20
+3122,Industria del tabaco,20,104.05552,51.616302,3,20
+3343,Fabricación de equipo de audio y de video,20,119.12487,47.040962,3,20
+3341,Fabricación de computadoras y equipo periférico,20,107.49717,-66.31431,3,20
